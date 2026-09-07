@@ -3,6 +3,8 @@
 
 ## Tools
 
+Vacato - [Free RDAP domain watchlist](https://vacato.io) with scheduled checks + email/Telegram alerts when a name looks available. Not a drop-catcher or registrar. Free: 10 domains.
+
 VoiceForms — [AI Voice Forms](https://voiceforms.anvevoice.app) that get **85% completion rates**. Drop-in replacement for traditional forms. Respondents speak instead of type — 3x faster, higher quality data. Free tier available. Embed with one line of code. ([GitHub](https://github.com/ANVEAI/lyrical-engine-hub))
 
 ## Contributing
